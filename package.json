@@ -1,14 +1,10 @@
 {
-  "name": "newton-eslint",
+  "name": "eslint-config-newton",
   "version": "1.0.0",
   "description": "Javascript linter for React and React Native.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thenewt15/newton-eslint.git"
   },
   "author": "",
   "license": "ISC",
